@@ -15,4 +15,4 @@ If user want to POST, the end point to enter is 'http://18.219.111.32/historical
   
 Delete is similar to POST but instead of POST, user need to select DELETE. The end point is 'http://18.219.111.32/YYYYMMDD'. When user clicks send in the Postman after entering proper endpoint, a success message will be displayed as shown in '5 Delete Date.PNG'. The deletion can be verified either in browser or Postman. The user cannot see the deleted date as shown in '5 After Delete in Chrome.PNG' and '5 After Delete in Postman.PNG'.  
   
-Inaddition to these, forcast is done for extra credits. The end point for forecast is 'http://18.219.111.32/Forecast/YYYYMMDD'. User can see 7 days in forecast as shown in '6 Forecast.PNG'.  
+Inaddition to these, forcast is done. The end point for forecast is 'http://18.219.111.32/Forecast/YYYYMMDD'. User can see 7 days in forecast as shown in '6 Forecast.PNG'.  
