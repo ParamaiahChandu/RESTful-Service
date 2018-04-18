@@ -1,7 +1,7 @@
 # RESTful-Service
 Implementing RESTful Service with the given data  
   
-I have developed a RESTful web service that hosts weather information. I have added end points to my application to accept input data as input paramaters to do GET and POST operations. This will return JSON result in plain text format to the user.  
+I have developed a RESTful web service that hosts weather information. I have added end points to my application to accept input data as input parameters to do GET and POST operations. This will return JSON result in plain text format to the user.  
   
 The root API for this web service is 'http://18.219.111.32/'. When user enters this in his browser, he is going to get a welcome message in JSON format as shown in the screen shot '1 Start Page.PNG'.  
   
